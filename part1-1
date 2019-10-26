@@ -1,0 +1,6 @@
+roy@roy-VirtualBox:~/tmc/hy-data-analysis-with-python-summer-2019$ sudo docker ps -a
+CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS                        PORTS               NAMES
+a1be4cf01432        nginx               "nginx -g 'daemon of…"   2 minutes ago       Exited (137) 9 seconds ago                        eager_hawking
+60309c11af0e        nginx               "nginx -g 'daemon of…"   3 minutes ago       Exited (137) 38 seconds ago                       trusting_goldstine
+e3b9160cb45e        nginx               "nginx -g 'daemon of…"   5 minutes ago       Up 5 minutes                  80/tcp              sweet_napier
+6a88ad64e054        hello-world         "/hello"                 2 hours ago         Exited (0) 2 hours ago                            stoic_maxwell
