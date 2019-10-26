@@ -1,0 +1,11 @@
+roy@roy-VirtualBox:~/tmc/hy-data-analysis-with-python-summer-2019$ sudo docker exec -it 958786c5a73c bash
+root@958786c5a73c:/usr/app# tail -f ./logs.txt 
+Sat, 26 Oct 2019 12:14:37 GMT
+Secret message is:
+"Docker is easy"
+Sat, 26 Oct 2019 12:14:43 GMT
+Sat, 26 Oct 2019 12:14:46 GMT
+Sat, 26 Oct 2019 12:14:49 GMT
+Sat, 26 Oct 2019 12:14:52 GMT
+Secret message is:
+"Docker is easy"
