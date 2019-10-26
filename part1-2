@@ -1,0 +1,4 @@
+roy@roy-VirtualBox:~/tmc/hy-data-analysis-with-python-summer-2019$ sudo docker ps -a
+CONTAINER ID        IMAGE               COMMAND             CREATED             STATUS              PORTS               NAMES
+roy@roy-VirtualBox:~/tmc/hy-data-analysis-with-python-summer-2019$ sudo docker images
+REPOSITORY                          TAG                 IMAGE ID            CREATED             SIZE
